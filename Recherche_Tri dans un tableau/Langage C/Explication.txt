@@ -1,0 +1,32 @@
+awaal 7aja hna bgha iy 3amer tableau dyalo bi des valeurs aléatoires
+
+So achno dar
+
+Fi language C kayn wa7d l function smitha rand()
+A chaque fois kat3tina un nombre aléatoires
+
+Ms had rand()
+Bach tkhdam kat7taj
+Fi b7al la racine dyalha
+O la racine a chaque fois khasha tbadel
+Bach a chaque fois rand () t3tina une valeur différents 3la l valeurs lwla
+
+So achno dar
+Achno l 7aja li varié a chaque fois katbadal
+Hiya time()
+
+So initialisa la racine dyal rand()
+Bi time
+Ya3ni ktab srand(time(null))
+
+Ma3lina fi l image lwla li sayfati liya ghadi iy3amer tableau bi des valeurs aléatoires
+Ms t9dar tl9a b7al haka
+2. 5. 1. 6. 9. 4 ....
+So hna hado mamratbinch
+
+Howa fi method Tanya bgha les valeurs iykono mratbiin
+Tels que
+L valeurs tanya tkoun kbar men li 9bal menha
+
+Comme
+2. 4. 12. 30. 32. 70. ...
