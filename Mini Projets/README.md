@@ -1,4 +1,4 @@
-# Mini Projets in C
+# Mini Projets
 ![](https://www.el-kalam.com/wp-content/uploads/2021/04/C-compiler-1200x450.png)
 
 Cette collection de mini-projets couvre plusieurs concepts de base de la programmation, tels que les calculs, les conditions, les boucles et les algorithmes de jeu. Chaque projet vise à développer une compétence spécifique en utilisant des concepts simples et facilement compréhensibles. Cette collection est un excellent point de départ pour les débutants en programmation qui cherchent à améliorer leurs compétences en réalisant des projets concrets et utiles.
